@@ -1,3 +1,6 @@
+## A simple app to search for a company by its name and address
+
+
 ## Installation
 
 1. Clone repository
